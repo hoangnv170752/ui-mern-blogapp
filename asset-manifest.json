@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ui-mern-blogapp/static/css/main.71084b8a.chunk.css",
+    "main.js": "/ui-mern-blogapp/static/js/main.c77c2f25.chunk.js",
+    "main.js.map": "/ui-mern-blogapp/static/js/main.c77c2f25.chunk.js.map",
+    "runtime-main.js": "/ui-mern-blogapp/static/js/runtime-main.e85d9405.js",
+    "runtime-main.js.map": "/ui-mern-blogapp/static/js/runtime-main.e85d9405.js.map",
+    "static/js/2.668a7898.chunk.js": "/ui-mern-blogapp/static/js/2.668a7898.chunk.js",
+    "static/js/2.668a7898.chunk.js.map": "/ui-mern-blogapp/static/js/2.668a7898.chunk.js.map",
+    "static/js/3.55998c7f.chunk.js": "/ui-mern-blogapp/static/js/3.55998c7f.chunk.js",
+    "static/js/3.55998c7f.chunk.js.map": "/ui-mern-blogapp/static/js/3.55998c7f.chunk.js.map",
+    "index.html": "/ui-mern-blogapp/index.html",
+    "static/css/main.71084b8a.chunk.css.map": "/ui-mern-blogapp/static/css/main.71084b8a.chunk.css.map",
+    "static/js/2.668a7898.chunk.js.LICENSE.txt": "/ui-mern-blogapp/static/js/2.668a7898.chunk.js.LICENSE.txt",
+    "static/media/background.d2698279.jpg": "/ui-mern-blogapp/static/media/background.d2698279.jpg",
+    "static/media/profile.55c8e2f4.jpg": "/ui-mern-blogapp/static/media/profile.55c8e2f4.jpg",
+    "static/media/profile2.264216c4.jpg": "/ui-mern-blogapp/static/media/profile2.264216c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e85d9405.js",
+    "static/js/2.668a7898.chunk.js",
+    "static/css/main.71084b8a.chunk.css",
+    "static/js/main.c77c2f25.chunk.js"
+  ]
+}
