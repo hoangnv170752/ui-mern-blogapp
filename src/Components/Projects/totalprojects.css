@@ -1,0 +1,8 @@
+.total {
+    display: flex;
+
+}
+.total-card {
+    border-spacing: 20px;
+    margin-right: 20px;
+}

@@ -1,0 +1,44 @@
+body {
+  background-image: src("../Photos/background.jpg");
+}
+.login {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("https://image.freepik.com/free-vector/white-abstract-background_23-2148806276.jpg");
+  background-size: cover;
+  background-position: absolute; 
+}
+
+.login__container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #dcdcdc;
+  padding: 30px;
+}
+
+.login__textBox {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.login__btn {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border: none;
+  color: white;
+  background-color: black;
+}
+
+.login__google {
+  background-color: rebeccapurple;
+}
+
+.login div {
+  margin-top: 7px;
+} 
